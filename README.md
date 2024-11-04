@@ -15,4 +15,4 @@ optional arguments:
 
 k@u:~$  
 
-[Link text](https://github.com/kaddatoumi/5drss/)
+[https://github.com/kaddatoumi/5drss/](https://github.com/kaddatoumi/5drss/)
